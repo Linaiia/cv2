@@ -66,5 +66,17 @@ a {
 }
 
 .me {
-  position: relative;
+  color: #EF5350;
+  position: absolute;
+  text-decoration: none;
+  left: 93%;
+  top: 5.3%;
+  width:4rem;
+  border:1px solid #000;
+}
+
+.me:hover{
+  background-color:#393E46;
+  border:1px solid #EF5350;
+  text-align:center;
 }
